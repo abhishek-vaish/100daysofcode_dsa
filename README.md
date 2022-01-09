@@ -4,7 +4,7 @@ This repository is based on :
 - It contains the problem based on the Leetcode and GeeksforGeeks. 
 - Folder is based on the Days basis. 
 
-**At the end of the 100th day I will share a excel sheet which contains all the question I had done through this challenge.**
+**At the end of the 100th day I will share a excel sheet which contains all the question I had done through out this challenge.**
 
 ## Important Links
 - [Google Sheet Link](https://docs.google.com/spreadsheets/d/12xqwgLT1QUs9AVFfqlkWyB-p2KiRFVIVsxs90J4USbM/edit?usp=sharing)
