@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/find-the-duplicate-number/
+
 class Solution {
     public int findDuplicate(int[] nums) {
         int max = Integer.MIN_VALUE;
