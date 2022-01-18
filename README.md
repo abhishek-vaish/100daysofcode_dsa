@@ -18,4 +18,25 @@ This sections consists of the overall summary of the 100 Days and the question d
 - [Rearrange array alternately](https://github.com/abhishekv5055/100daysofcode_dsa/blob/master/Day0/rearrange_array_alternately.java)
 - [Cyclically rotate and array by one](https://github.com/abhishekv5055/100daysofcode_dsa/blob/master/Day0/cyclically_rotate_an_array_by_one.java)
 
+### Day 1
+
+- [Coin Change]()
+- [Length of last Word]()
+- [Smallest Positive Missing Number]()
+
+### Day 2
+
+- [Kth Smallest Number]() [Not Optimised]
+- [Kadane's Algorithm]()
+- [Find Duplicate Number]()
+
+### Day 3
+
+- [Merge Two Sorted Array in O(1) Space]()
+- [Common Element]() [Not Optimised]
+- [Count Pair of Sum]()
+
+### Day 4
+- [Array Subset of another Array]()
+
 
